@@ -1,0 +1,16 @@
+{
+  "name": "github_scrapper-main",
+  "version": "1.0.0",
+  "description": "It scraps the github for the top 3 topics and their respective 8 repositories, and scraps the top 5 issues in them.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "jspdf": "^2.5.1",
+    "request": "^2.88.2"
+  }
+}
